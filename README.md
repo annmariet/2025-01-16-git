@@ -6,3 +6,5 @@
 - `pull request`: how you combine the branches
 - `git add`: adds changes to staging area to be later commited
 - `git commit`: commits staged changes 
+- `git push`: pushes changes to remote repository
+- `git pull`: gets changes from remote repository
