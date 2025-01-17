@@ -2,3 +2,5 @@
 - `git branch`:shows us what branches that we have
 - `git switch`: allows us to switch between the branches
 - `git log --oneline --graph --all`: shows us a visual of the path of our branches
+- `branch`: a different subset of your code seperate from main
+- `pull request`: how you combine the branches
