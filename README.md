@@ -8,3 +8,4 @@
 - `git commit`: commits staged changes 
 - `git push`: pushes changes to remote repository
 - `git pull`: gets changes from remote repository
+- `another definition`: uh oh
